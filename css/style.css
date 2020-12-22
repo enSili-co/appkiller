@@ -30,11 +30,11 @@ body {
   position: relative; }
 
 a {
-  color: rgba(255, 147, 177, 0.8); }
+  color: #4d4d4d; }
 
 a:hover,
 a:focus {
-  color: rgba(249, 0, 70, 0.8); }
+  color: #000000; }
 
 h1 {
   font-size: 60px;
@@ -69,7 +69,7 @@ p {
   color: #959094; }
 
 p.lead {
-  color: rgba(255, 147, 177, 0.8);
+  color: #4d4d4d;
   margin-bottom: 2rem; }
 
 .text-primary {
@@ -90,7 +90,7 @@ p.lead {
 
 .btn-primary {
   border-radius: 3px;
-  background-color: rgba(249, 0, 70, 0.8);
+  background-color: #000000;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -102,7 +102,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: rgba(224, 0, 63, 0.8);
+  background-color: black;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF; }
 
@@ -271,7 +271,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: rgba(249, 0, 70, 0.8);
+  color: #000000;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -285,7 +285,7 @@ header {
     font-size: 28px;
     line-height: 50px; } }
 .ui-steps li:hover .circle-icon {
-  background: rgba(249, 0, 70, 0.8);
+  background: #000000;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF; }
 
@@ -490,7 +490,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: rgba(255, 147, 177, 0.8); }
+  color: #4d4d4d; }
 
 @media (max-width: 991px) {
   .social-icons {
