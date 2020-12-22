@@ -1,1 +1,23 @@
+<p align=center>
+  <img height="150px" src="https://github.com/enSili-co/appkiller/raw/main/images/logo.png"/>
+</p>
+<h1 align=center>AppKiller for Mac</h1>
+<p align=center>
+  Tired of getting stuck with open apps<br>and not knowing how to get rid of them? Kill them all at once, easily!<br><br>On your Mac. Just like that.
+</p>
 
+
+---
+
+# Download for free (3-day trial)
+
+▶︎ https://s3.amazonaws.com/ensili.co/appkiller-3.0.zip
+
+# Official Website
+
+▶︎ https://appkiller.app
+
+# Issues
+
+For issues/comments/suggestions/feedback (everything is 100% welcome!),...    
+...just open an Issue here at github! :)
