@@ -45,24 +45,24 @@ h1 {
 h2 {
   font-size: 45px;
   font-weight: 300;
-  color: #210B0E;
+  color: #110B0E;
   letter-spacing: -1px;
   margin-bottom: 1rem; }
 
 h3 {
-  color: #210B0E;
+  color: #110B0E;
   font-size: 33px;
   font-weight: 500; }
 
 h4 {
   font-size: 20px;
   font-weight: 500;
-  color: #210B0E; }
+  color: #110B0E; }
 
 h5 {
   font-size: 28px;
   font-weight: 300;
-  color: #210B0E;
+  color: #110B0E;
   margin-bottom: 0.7rem; }
 
 p {
@@ -86,7 +86,7 @@ p.lead {
   transition: all 0.3s ease; }
 
 .btn-outline-light:hover {
-  color: #210B0E; }
+  color: #110B0E; }
 
 .btn-primary {
   border-radius: 3px;
@@ -112,7 +112,7 @@ p.lead {
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
   font-size: 14px;
   font-weight: 500;
-  color: #210B0E;
+  color: #110B0E;
   margin: 0.5rem;
   padding: 0.7rem 1.6rem;
   line-height: 1.8; }
@@ -149,7 +149,7 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-  background-color: rgba(33, 11, 14, 0.94); }
+  background-color: rgba(17, 11, 14, 0.94); }
 
 .nav-menu.is-scrolling {
   padding: 0; }
@@ -214,10 +214,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #ff025c;
-  background: -moz-linear-gradient(top, #d20009 0%, #ff025c 100%);
-  background: -webkit-linear-gradient(top, #d20009 0%, #ff025c 100%);
-  background: linear-gradient(to bottom, #d20009 0%, #ff025c 100%);
+  color: #ce0049;
+  background: -moz-linear-gradient(top, #9f0007 0%, #ce0049 100%);
+  background: -webkit-linear-gradient(top, #9f0007 0%, #ce0049 100%);
+  background: linear-gradient(to bottom, #9f0007 0%, #ce0049 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent; }
@@ -238,10 +238,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #ff025c;
-  background: -moz-linear-gradient(top, #d20009 0%, #ff025c 100%);
-  background: -webkit-linear-gradient(top, #d20009 0%, #ff025c 100%);
-  background: linear-gradient(to bottom, #d20009 0%, #ff025c 100%);
+  color: #ce0049;
+  background: -moz-linear-gradient(top, #9f0007 0%, #ce0049 100%);
+  background: -webkit-linear-gradient(top, #9f0007 0%, #ce0049 100%);
+  background: linear-gradient(to bottom, #9f0007 0%, #ce0049 100%);
   top: 0;
   bottom: 0;
   left: 0; }
@@ -336,7 +336,7 @@ header {
   background: #FFF;
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
-  color: #210B0E; }
+  color: #110B0E; }
 
 /*  TESTIMONIALS
 ----------------------*/
@@ -414,7 +414,7 @@ header {
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
   box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-  color: #210B0E; }
+  color: #110B0E; }
 
 .card.pricing .card-head {
   text-align: center;
@@ -424,7 +424,7 @@ header {
   display: block;
   font-size: 45px;
   font-weight: 300;
-  color: #210B0E; }
+  color: #110B0E; }
 
 .card.pricing .card-head .price sub {
   bottom: 0;
