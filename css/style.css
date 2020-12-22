@@ -185,10 +185,10 @@ header {
   color: #FFF; }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #333333CC 0%, #AA8888CC 100%);
-  background-image: -webkit-linear-gradient(135deg, #333333CC 0%, #AA8888CC 100%);
-  background-image: -ms-linear-gradient(135deg, #333333CC 0%, #AA8888CC 100%);
-  background-image: linear-gradient(135deg, #333333CC 0%, #AA8888CC 100%); }
+  background-image: -moz-linear-gradient(135deg, #884422 0%, #DD0E22 100%);
+  background-image: -webkit-linear-gradient(135deg, #884422 0%, #DD0E22 100%);
+  background-image: -ms-linear-gradient(135deg, #884422 0%, #DD0E22 100%);
+  background-image: linear-gradient(135deg, #884422 0%, #DD0E22 100%); }
 
 .tagline {
   font-size: 23px;
@@ -214,10 +214,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #DD0E22;
-  background: -moz-linear-gradient(top, #884422 0%, #DD0E22 100%);
-  background: -webkit-linear-gradient(top, #884422 0%, #DD0E22 100%);
-  background: linear-gradient(to bottom, #884422 0%, #DD0E22 100%);
+  color: #AA8888CC;
+  background: -moz-linear-gradient(top, #333333CC 0%, #AA8888CC 100%);
+  background: -webkit-linear-gradient(top, #333333CC 0%, #AA8888CC 100%);
+  background: linear-gradient(to bottom, #333333CC 0%, #AA8888CC 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent; }
@@ -238,10 +238,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #DD0E22;
-  background: -moz-linear-gradient(top, #884422 0%, #DD0E22 100%);
-  background: -webkit-linear-gradient(top, #884422 0%, #DD0E22 100%);
-  background: linear-gradient(to bottom, #884422 0%, #DD0E22 100%);
+  color: #AA8888CC;
+  background: -moz-linear-gradient(top, #333333CC 0%, #AA8888CC 100%);
+  background: -webkit-linear-gradient(top, #333333CC 0%, #AA8888CC 100%);
+  background: linear-gradient(to bottom, #333333CC 0%, #AA8888CC 100%);
   top: 0;
   bottom: 0;
   left: 0; }
