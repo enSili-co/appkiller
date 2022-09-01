@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://s3.amazonaws.com/ensili.co/appkiller-3.0.zip
+▶︎ https://cdn.ensili.co/download/appkiller/appkiller-3.2.zip
 
 # Official Website
 
