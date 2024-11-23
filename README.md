@@ -15,7 +15,7 @@
 
 # Official Website
 
-▶︎ https://appkiller.app
+▶︎ https://ensili.co/app/appkiller
 
 # Issues
 

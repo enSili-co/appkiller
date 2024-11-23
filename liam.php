@@ -13,7 +13,7 @@ if (isset($_POST["validated"])) {
 
     // try {
 
-    //     $website = 'appkiller.app';
+    //     $website = 'ensili.co/app/appkiller';
     //     $message = nl2br($_POST['message']);
         
     //     $mail->SMTPDebug = SMTP::DEBUG_SERVER;
