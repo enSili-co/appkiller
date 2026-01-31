@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/appkiller/appkiller-4.2.3.zip
+▶︎ https://cdn.ensili.co/app/appkiller/download/appkiller-4.2.3.zip
 
 # Official Website
 
